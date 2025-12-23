@@ -3,7 +3,7 @@ Ideally in gentoo create a custom set in gentoo in /etc/portage/sets/sway-wm. Th
 $ # emerge -avqg @sway-wm
 
 The portage specific options
--a --ask ---> asks for y/n prompt to decide if you want to move with the default use flags
+-a --ask ---> asks for y/n prompt to decide if you want to move with the default use flags \n
 -v --verbose ---> self explanatory
 -q --quiet ---> doesn't show the build process in the display
 -g --getbinpkg ---> fetches binaries if exists
